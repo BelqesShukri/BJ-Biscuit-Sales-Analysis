@@ -51,7 +51,11 @@ An interactive sales analysis project for **B&J Biscuit**, a retail store specia
 
 ## Tools & Skills
 
-**Tool:** Microsoft Excel
+**Tool:** 
+Microsoft Excel
+Power Query
+Power Pivot
+VBA
 
 **Technical Skills:**
 - Data Cleaning & Transformation
@@ -113,7 +117,11 @@ An interactive sales analysis project for **B&J Biscuit**, a retail store specia
 
 ## الأدوات والمهارات
 
-**الأداة:** Microsoft Excel
+**الأداة:*
+Microsoft Excel
+Power Query
+Power Pivot
+VBA
 
 **المهارات التقنية:**
 - تنظيف البيانات وتحويلها.
