@@ -64,8 +64,11 @@ An interactive sales analysis project for **B&J Biscuit**, a retail store specia
 
  Customer Demographics & Segmentation \  معاينة لوحة المعلومات
 
-Dashboard-Overview.png
-Dashboard-Analysis.png
+
+1. [Dashboard-Overview.png](https://github.com/BelqesShukri/BJ-Biscuit-Sales-Analysis/blob/main/Dashboard-Overview.png)
+
+2. [Dashboard-Analysis.png](https://github.com/BelqesShukri/BJ-Biscuit-Sales-Analysis/blob/main/Dashboard-Analysis.png)
+
 
 ---
 
