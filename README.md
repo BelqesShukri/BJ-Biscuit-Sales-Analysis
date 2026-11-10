@@ -49,15 +49,17 @@ An interactive sales analysis project for **B&J Biscuit**, a retail store specia
 4. Prepare inventory for peak sales periods.
 5. Explore opportunities to improve weekend sales.
 
- Tools & Skills
+## Tools & Skills
 
-**Microsoft Excel**
+**Tool:** Microsoft Excel
+
+**Technical Skills:**
+- Data Cleaning & Transformation
 - Data Analysis & Visualization
-- Interactive Dashboard Development
-- KPI Reporting
-- Customer Segmentation
-- Sales & Profitability Analysis
-- Business Insights
+- PivotTables & PivotCharts
+- Interactive Dashboards & Slicers
+- KPI Development & Reporting
+- Business Insights & Reporting
 
 
  Dashboard Preview
@@ -112,12 +114,14 @@ An interactive sales analysis project for **B&J Biscuit**, a retail store specia
 
 ## الأدوات والمهارات
 
-**Microsoft Excel**
+**الأداة:** Microsoft Excel
 
+**المهارات التقنية:**
+- تنظيف البيانات وتحويلها.
 - تحليل البيانات وتصويرها بصريًا.
+- استخدام الجداول والرسوم البيانية المحورية.
 - تصميم لوحات معلومات تفاعلية.
-- إعداد مؤشرات الأداء.
-- تحليل العملاء والمبيعات والربحية.
-- استخلاص الرؤى التجارية.
+- إعداد مؤشرات الأداء والتقارير.
+- استخلاص الرؤى التجارية..
 
 </div>
