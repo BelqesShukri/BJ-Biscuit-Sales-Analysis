@@ -6,6 +6,15 @@ Sales Analysis Dashboard for B&J Biscuit, a sweets retail store | لوحة مع�
 An interactive sales analysis project for **B&J Biscuit**, a retail store specializing in sweets and biscuits, developed using Microsoft Excel.
 
 
+ Dashboard Preview
+
+ Customer Demographics & Segmentation \  معاينة لوحة المعلومات
+
+<img src="./Dashboard-Overview.png" width="100%" alt="Customer Dashboard">
+
+<img src="./Dashboard-Analysis.png" width="100%" alt="Sales Trends Dashboard">
+
+
 
  Key Performance Indicators
 
@@ -66,13 +75,6 @@ VBA
 - Business Insights & Reporting
 
 
- Dashboard Preview
-
- Customer Demographics & Segmentation \  معاينة لوحة المعلومات
-
-<img src="./Dashboard-Overview.png" width="100%" alt="Customer Dashboard">
-
-<img src="./Dashboard-Analysis.png" width="100%" alt="Sales Trends Dashboard">
 
 
 ---
